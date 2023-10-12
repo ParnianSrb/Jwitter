@@ -1,6 +1,6 @@
 # Jwitter
 ## The idea is to create a website similar to Twitter!, and it is Jwitter because because of the Django framework :D
-### In order to learn Python in different branches, I decided to build an easy website with Django 
+### In order to learn Python in different branches, I decided to build a simple website with Django 
 
 ### Description:
 We need a Database to store the information about Posts, we need Username and Password to login and be able to create posts.
