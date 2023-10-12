@@ -31,7 +31,7 @@ We need a Database to store the information about Posts, we need Username and Pa
 
 7. Now blog page and admin page are ready to be seen after running the server.
 
-##### Create a View in blog app:
+#### Create a View in blog app:
 1. import HttpResponse
 
 2. create a view/function which takes a request and always returns a HttpResponse
