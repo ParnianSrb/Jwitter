@@ -1,11 +1,11 @@
 # Jwitter
-### The idea is to create a website similar to Twitter!, and it is Jwitter because because of the Django framework :D
-#### In order to learn Python in different branches, I decided to build an easy website with Django 
+## The idea is to create a website similar to Twitter!, and it is Jwitter because because of the Django framework :D
+### In order to learn Python in different branches, I decided to build an easy website with Django 
 
-#### Description:
+### Description:
 We need a Database to store the information about Posts, we need Username and Password to login and be able to create posts.
 
-#### Details: 
+### Details: 
 1. Libraries exist in my Virtual Environment - the "requirements.txt" file contains the libraries
 2. Django can start an Admin System right away by this code in our project folder when virtual environment is active:
 
